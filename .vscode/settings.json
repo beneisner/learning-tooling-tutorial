@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.linting.lintOnSave": true,
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true,
+        }
+    },
+    "python.defaultInterpreterPath": "~/Library/Caches/pypoetry/virtualenvs/tooltorial-NffYeVah-py3.8",
+    "python.analysis.typeCheckingMode": "basic"
+    }
+}
